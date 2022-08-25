@@ -4,6 +4,13 @@ Análisis de tareas para las Consultas atendidas en las Redes Sociales más frec
 
 | CÁCERES HUANCA, ADHAIR EDHINO |  CÓRDOVA CASTRO, MARKO LEUGIM
 
+![Image  text](https://github.com/Marko99-CC/RENIEC-Consultas_Atendidas/blob/main/IM%C3%81GENES/RENIEC%20-%20logo.png)
+<img src="https://github.com/Marko99-CC/RENIEC-Consultas_Atendidas/blob/main/IM%C3%81GENES/Facebook%20-%20logo.png" width="55">
+<img src="https://github.com/Marko99-CC/RENIEC-Consultas_Atendidas/blob/main/IM%C3%81GENES/Twitter%20-%20logo.png" width="55">
+<img src="https://github.com/Marko99-CC/RENIEC-Consultas_Atendidas/blob/main/IM%C3%81GENES/Instagram%20-%20logo.svg" width="55">
+<img src="https://github.com/Marko99-CC/RENIEC-Consultas_Atendidas/blob/main/IM%C3%81GENES/YouTube%20-%20logo.png" width="120">
+<img src="https://github.com/Marko99-CC/RENIEC-Consultas_Atendidas/blob/main/IM%C3%81GENES/Tik%20Tok%20-%20logo.jpg" width="90">
+
 Índice
 --
 - Introducción
@@ -33,3 +40,28 @@ Página Oficial:
 - Tik Tok: https://www.tiktok.com/@reniecoficial
 
 Plataforma de Consultas: Facebook
+
+- Facebook - Inbox
+
+<img src="https://github.com/Marko99-CC/RENIEC-Consultas_Atendidas/blob/main/IM%C3%81GENES/Plataforma%20Facebook%20-%20Inbox.jpg" width="500">
+
+- Facebook - Muro
+
+<img src="https://github.com/Marko99-CC/RENIEC-Consultas_Atendidas/blob/main/IM%C3%81GENES/Plataforma%20Facebook%20-%20Muro.jpg" width="500">
+
+
+Plataforma de Consultas: Twitter
+
+<img src="https://github.com/Marko99-CC/RENIEC-Consultas_Atendidas/blob/main/IM%C3%81GENES/Plataforma%20Twitter.jpg" width="500">
+
+Plataforma de Consultas: Instagram
+
+<img src="https://github.com/Marko99-CC/RENIEC-Consultas_Atendidas/blob/main/IM%C3%81GENES/Plataforma%20Instagram.jpg" width="500">
+
+Plataforma de Consultas: YouTube
+
+<img src="https://github.com/Marko99-CC/RENIEC-Consultas_Atendidas/blob/main/IM%C3%81GENES/Plataforma%20YouTube.jpg" width="500">
+
+Plataforma de Consultas: Tik Tok
+
+<img src="https://github.com/Marko99-CC/RENIEC-Consultas_Atendidas/blob/main/IM%C3%81GENES/Plataforma%20Tik%20Tok.jpg" width="500">
